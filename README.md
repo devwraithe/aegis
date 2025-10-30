@@ -35,7 +35,6 @@ yarn execute-vault
 - **Deploy:** [`2SpHtPZZpX9HytKvnNuMzPxRQFLFiFpB2pLaH5Hz4CunKLqcufg7vS917AxYKapYBM73SVbNZb8C1MmP1uj3zj4o`](https://explorer.solana.com/tx/2SpHtPZZpX9HytKvnNuMzPxRQFLFiFpB2pLaH5Hz4CunKLqcufg7vS917AxYKapYBM73SVbNZb8C1MmP1uj3zj4o?cluster=devnet)
 - **Vault Init:** [`56k8YgtbEG51Smy74DN6mEdvXqa7sXEsyT8K2ZeaYHDiBZ2a1dzwuqKqUE85KF9uhX1tmPBzc7aNtZbTicQMvKiH`](https://explorer.solana.com/tx/56k8YgtbEG51Smy74DN6mEdvXqa7sXEsyT8K2ZeaYHDiBZ2a1dzwuqKqUE85KF9uhX1tmPBzc7aNtZbTicQMvKiH?cluster=devnet)
 - **Deposit:** [`3NUKhXJggfJf8UyFwDkKNNWqjzZsbHYd5LxC1ABKM8d78vaa5t3KfXXadpgT1gNrjLsa7okF48vvmEw9LZcNNK7e`](https://explorer.solana.com/tx/3NUKhXJggfJf8UyFwDkKNNWqjzZsbHYd5LxC1ABKM8d78vaa5t3KfXXadpgT1gNrjLsa7okF48vvmEw9LZcNNK7e?cluster=devnet)
-- **Token Mint:** [`221bQ7ALWBme5GJHwhwySjwZXHNsSjCMdncfJsfAnz2ToGmQ85fytLZBj7qNvQbyUzi5DdmahmiAgLxXgYSJTXNL`](https://explorer.solana.com/tx/221bQ7ALWBme5GJHwhwySjwZXHNsSjCMdncfJsfAnz2ToGmQ85fytLZBj7qNvQbyUzi5DdmahmiAgLxXgYSJTXNL?cluster=devnet)
 
 ## Security
 
