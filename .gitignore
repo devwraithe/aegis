@@ -7,3 +7,4 @@ test-ledger
 .yarn
 mint_authority.json
 user_keypair.json
+dist
