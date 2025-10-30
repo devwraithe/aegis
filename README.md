@@ -10,7 +10,7 @@ Aegis is a token vault system on Solana Devnet that stores DRT tokens towards a 
 
 ![Token Info](./docs/drt-vault.png)
 
-[View Token Account on Solana Explorer](https://explorer.solana.com/address/BhHxBocFdsRPuPZ4NRY8VW6xFDvE6825T4wHgwEAFUew?cluster=devnet)
+[View Vault Token Account on Solana Explorer](https://explorer.solana.com/address/BhHxBocFdsRPuPZ4NRY8VW6xFDvE6825T4wHgwEAFUew?cluster=devnet)
 
 ## Setup
 
